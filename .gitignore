@@ -14,3 +14,5 @@
 .glide/
 
 cmd/discovery/discovery
+
+.idea
